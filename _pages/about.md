@@ -17,7 +17,9 @@ This is the front page of a website that is powered by the [academicpages templa
 
 2021年-2024年 东南大学生物科学与医学工程学院生物医学工程专业 硕士研究生
 
-研究方向：动作识别、计算机视觉、情感计算、人工智能    科研单位：情感信息处理实验室(AIPL)
+研究方向：动作识别、计算机视觉、情感计算、人工智能
+
+科研单位：情感信息处理实验室(AIPL)
 
 工作经历
 ======
