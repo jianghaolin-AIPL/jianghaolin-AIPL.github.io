@@ -12,9 +12,17 @@ This is the front page of a website that is powered by the [academicpages templa
 
 教育经历
 ======
+
 2017年-2021年 安徽大学电子信息工程学院电子信息工程专业 本科
 
 2021年-2024年 东南大学生物科学与医学工程学院生物医学工程专业 硕士研究生
+
+工作经历
+======
+
+2023年5月-2023年8月 科大讯飞(合肥) 软件开发实习生
+
+2024年7月-今 美团(北京) 软件开发工程师       
 
 A data-driven personal website
 ======
