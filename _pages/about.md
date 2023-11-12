@@ -1,3 +1,7 @@
+教育经历
+======
+2017年-2021年 安徽大学电子信息工程学院电子信息工程专业 本科
+2021年-2024年 东南大学生物科学与医学工程学院生物医学工程专业 硕士研究生
 ---
 permalink: /
 title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
