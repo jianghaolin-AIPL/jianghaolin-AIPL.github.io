@@ -17,9 +17,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 2021年-2024年 东南大学生物科学与医学工程学院生物医学工程专业 硕士研究生
 
-研究方向：动作识别、计算机视觉、情感计算、人工智能
-
-科研单位：情感信息处理实验室(AIPL)
+**研究方向：**动作识别、计算机视觉、情感计算、人工智能 **科研单位：**情感信息处理实验室(AIPL)
 
 工作经历
 ------
@@ -28,15 +26,12 @@ This is the front page of a website that is powered by the [academicpages templa
 
 2024年7月-今 美团(北京) 软件开发工程师       
 
-A data-driven personal website
-
 学术成果
 ------
 
 **Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408.      
 
 A data-driven personal website
-
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
