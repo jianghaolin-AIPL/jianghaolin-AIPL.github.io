@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "江浩林"
+  # name             : "江浩林"
   avatar           : "1.png"
-  bio              : "东南大学情感信息处理实验室"
+  # bio              : "东南大学情感信息处理实验室"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
