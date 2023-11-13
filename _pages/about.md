@@ -27,7 +27,7 @@ redirect_from:
 
 学术成果
 ------
-**Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408.     
+**Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)  
 
 校园经历
 ------
