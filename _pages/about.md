@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "江浩林"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+江浩林，男，1999年生，安徽亳州人，东南大学AIPL组硕士研究生在读。
 
 教育经历
 ------
 
-2017年-2021年 安徽大学电子信息工程学院电子信息工程专业 本科
+2017年-2021年，安徽大学电子信息工程学院电子信息工程专业，本科
 
-2021年-2024年 东南大学生物科学与医学工程学院生物医学工程专业 硕士研究生
+2021年-2024年，东南大学生物科学与医学工程学院生物医学工程专业，硕士研究生
 
-**研究方向：**动作识别、计算机视觉、情感计算、人工智能 **科研单位：**情感信息处理实验室(AIPL)
+**研究方向：**动作识别、计算机视觉、情感计算、人工智能，**科研单位：**情感信息处理实验室(AIPL)
 
 工作经历
 ------
-2018年9月-2019年1月 兴园中学(合肥) 少年宫老师
+2018年9月-2019年1月，兴园中学(合肥)，少年宫老师
 
-2023年5月-2023年8月 科大讯飞(合肥) 软件开发实习生      
+2023年5月-2023年8月，科大讯飞(合肥)，软件开发实习生      
 
 学术成果
 ------
@@ -31,11 +31,11 @@ This is the front page of a website that is powered by the [academicpages templa
 
 校园经历
 ------
-2018年6月-2019年6月 安徽大学无线电测向协会宣传部部长
+2018年6月-2019年6月，安徽大学无线电测向协会宣传部部长
 
-2018年6月-2019年6月 安徽大学电子信息工程学院学生会宣传设计部副部长
+2018年6月-2019年6月，安徽大学电子信息工程学院学生会宣传设计部副部长
 
-2019年8月-2020年1月 安徽大学电子信息工程学院导生
+2019年8月-2020年1月，安徽大学电子信息工程学院导生
 
 荣誉奖项
 ------
