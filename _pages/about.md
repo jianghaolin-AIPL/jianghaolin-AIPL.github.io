@@ -27,7 +27,8 @@ redirect_from:
 
 学术成果
 ------
-**Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)  
+1. **Jiang H**, Zheng W, Zong Y, Xu X, Jiang X, Xue Y. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)
+2. Xu X, Zong Y, Zheng W, Li Y, Tang C, Jiang X, **Jiang H**. SDFE-LV: A Large-Scale, Multi-Source, and Unconstrained Database for Spotting Dynamic Facial Expressions in Long Videos[J]. arXiv preprint arXiv:2209.08445, 2022.
 
 校园经历
 ------
