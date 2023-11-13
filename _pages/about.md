@@ -23,9 +23,7 @@ This is the front page of a website that is powered by the [academicpages templa
 ------
 2018年9月-2019年1月 兴园中学(合肥) 少年宫老师
 
-2023年5月-2023年8月 科大讯飞(合肥) 软件开发实习生
-
-2024年7月-今 美团(北京) 软件开发工程师       
+2023年5月-2023年8月 科大讯飞(合肥) 软件开发实习生      
 
 学术成果
 ------
