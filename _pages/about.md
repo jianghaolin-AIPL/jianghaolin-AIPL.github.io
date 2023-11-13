@@ -21,6 +21,7 @@ This is the front page of a website that is powered by the [academicpages templa
 
 工作经历
 ------
+2018年9月-2019年1月 兴园中学(合肥) 少年宫老师
 
 2023年5月-2023年8月 科大讯飞(合肥) 软件开发实习生
 
@@ -28,8 +29,27 @@ This is the front page of a website that is powered by the [academicpages templa
 
 学术成果
 ------
+**Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408.     
 
-**Jiang H**, Zheng W, Zong Y, et al. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition[C]//2023 IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408.      
+学生工作
+------
+2018年6月-2019年6月 安徽大学无线电测向协会宣传部部长
+
+2018年6月-2019年6月 安徽大学电子信息工程学院学生会宣传设计部副部长
+
+2019年8月-2020年1月 安徽大学电子信息工程学院导生
+
+荣誉奖项
+------
+2018年恒信奖学金
+
+2018年全国无线电测向锦标赛二等奖
+
+2019年全国大学生数学建模竞赛安徽省三等奖
+
+2021年安徽大学校级优秀本科毕业生
+
+2022年东南大学校级三好研究生
 
 A data-driven personal website
 ======
