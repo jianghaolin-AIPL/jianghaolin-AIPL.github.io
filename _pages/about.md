@@ -27,11 +27,6 @@ redirect_from:
 
 2023年5月-2023年8月，科大讯飞(合肥)，软件开发实习生      
 
-学术成果
-------
-1. **Jiang H**, Zheng W, Zong Y, Xu X, Jiang X, Xue Y. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)
-2. Xu X, Zong Y, Zheng W, Li Y, Tang C, Jiang X, **Jiang H**. SDFE-LV: A Large-Scale, Multi-Source, and Unconstrained Database for Spotting Dynamic Facial Expressions in Long Videos. arXiv preprint arXiv:2209.08445, 2022.
-
 校园经历
 ------
 2018年6月-2019年6月，安徽大学无线电测向协会宣传部部长
@@ -39,6 +34,11 @@ redirect_from:
 2018年6月-2019年6月，安徽大学电子信息工程学院学生会宣传设计部部长
 
 2019年8月-2020年1月，安徽大学电子信息工程学院导生
+
+学术成果
+------
+1. **Jiang H**, Zheng W, Zong Y, Xu X, Jiang X, Xue Y. Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)
+2. Xu X, Zong Y, Zheng W, Li Y, Tang C, Jiang X, **Jiang H**. SDFE-LV: A Large-Scale, Multi-Source, and Unconstrained Database for Spotting Dynamic Facial Expressions in Long Videos. arXiv preprint arXiv:2209.08445, 2022.
 
 荣誉奖项
 ------
