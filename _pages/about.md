@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-江浩林，男，1999年生，安徽亳州人，中共党员，东南大学AIPL组硕士研究生在读，IEEE Member，SPS Member。
+江浩林，男，1999年生，安徽亳州人，中共党员，2021年获工学学士学位，东南大学AIPL组硕士研究生在读，IEEE Member，SPS Member。
 
 教育背景
 ------
