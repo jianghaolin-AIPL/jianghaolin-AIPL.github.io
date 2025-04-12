@@ -25,8 +25,8 @@ redirect_from:
 
 学术成果
 ------
-1. **Jiang H**, Zheng W, Zong Y, Xu X, Jiang X, Xue Y. [Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/10222125). IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)
-2. Xu X, Zong Y, Zheng W, Li Y, Tang C, Jiang X, **Jiang H**. [SDFE-LV: A Large-Scale, Multi-Source, and Unconstrained Database for Spotting Dynamic Facial Expressions in Long Videos](https://arxiv.org/abs/2209.08445). arXiv preprint arXiv:2209.08445, 2022.
+1. **Jiang H**, Zheng W, Zong Y, Xu X, Jiang X, Xue Y. [Geometric Magnification-based Attention Graph Convolutional Network for Skeleton-based Micro-Gesture Recognition](https://ieeexplore.ieee.org/abstract/document/10222125){:target="_blank"}. IEEE International Conference on Image Processing (ICIP). IEEE, 2023: 3404-3408. (CCF C类会议)
+2. Xu X, Zong Y, Zheng W, Li Y, Tang C, Jiang X, **Jiang H**. [SDFE-LV: A Large-Scale, Multi-Source, and Unconstrained Database for Spotting Dynamic Facial Expressions in Long Videos](https://arxiv.org/abs/2209.08445){:target="_blank"}. arXiv preprint arXiv:2209.08445, 2022.
 
 学位论文
 ------
